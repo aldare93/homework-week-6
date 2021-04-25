@@ -1,0 +1,53 @@
+.search-container {
+    padding-top: 50px;
+}
+
+.btn {
+    min-height: 50px;
+}
+
+.card {
+    background-color: rgb(207, 207, 207);
+}
+
+ul{ 
+    list-style-type: none;
+    padding-left: 0;
+}
+  
+li{ 
+    font-size: 12pt;
+}
+
+.fiveDay {
+    padding-top: 20px;
+}
+
+#forecast-weather {
+    background-color: rgb(185, 185, 241);
+    min-height: 250px;
+}
+
+#forecast-weather2 {
+    background-color: rgb(185, 185, 241);
+    min-height: 250px;
+}
+
+#forecast-weather3 {
+    background-color: rgb(185, 185, 241);
+    min-height: 250px;
+}
+
+#forecast-weather4 {
+    background-color: rgb(185, 185, 241);
+    min-height: 250px;
+}
+
+#forecast-weather5 {
+    background-color: rgb(185, 185, 241);
+    min-height: 250px;
+}
+
+#current-weather {
+    min-height: 220px;
+}
